@@ -6,7 +6,7 @@
   <link href="https://blog.xdxbc.top/atom.xml" rel="self"/>
   
   <link href="https://blog.xdxbc.top/"/>
-  <updated>2024-04-15T04:24:45.000Z</updated>
+  <updated>2024-04-15T14:15:43.985Z</updated>
   <id>https://blog.xdxbc.top/</id>
   
   <author>
@@ -17,20 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>感谢翻译工具</title>
-    <link href="https://blog.xdxbc.top/2024/04/14/%E6%84%9F%E8%B0%A2%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7/"/>
-    <id>https://blog.xdxbc.top/2024/04/14/%E6%84%9F%E8%B0%A2%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7/</id>
+    <title>Blog 站点成功部署</title>
+    <link href="https://blog.xdxbc.top/2024/04/14/Blog%20%E7%AB%99%E7%82%B9%E6%88%90%E5%8A%9F%E9%83%A8%E7%BD%B2/"/>
+    <id>https://blog.xdxbc.top/2024/04/14/Blog%20%E7%AB%99%E7%82%B9%E6%88%90%E5%8A%9F%E9%83%A8%E7%BD%B2/</id>
     <published>2024-04-14T15:30:25.000Z</published>
-    <updated>2024-04-15T04:24:45.000Z</updated>
+    <updated>2024-04-15T14:15:43.985Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="感谢翻译工具"><a href="#感谢翻译工具" class="headerlink" title="感谢翻译工具"></a>感谢翻译工具</h1><hr><p>多亏了翻译工具，让我在网页上找到了结局方案</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="他人的博文的帮助"><a href="#他人的博文的帮助" class="headerlink" title="他人的博文的帮助"></a>他人的博文的帮助</h1><p>感谢他人的博文的提供的知识与帮助，使我在其中不断学习建立blog方法<br>与及其使用的方法。</p><p>提供帮助的站点包括但不限于(排名不分前后)：</p><ul><li><a href="https://hexo.io/zh-cn/docs" title="hexo">Hexo</a></li><li><a href="https://fuguigui.github.io/" title="Fululu">Fululu</a></li><li><a href="https://blog.cuijiacai.com/" title="爱扑bug的熊">爱朴bug的熊</a></li><li><a href="https://github.com/" title="github">Github</a></li><li><a href="https://note-xuezhizhang.readthedocs.io/en/latest/%E5%8D%9A%E5%AE%A2%E8%BF%90%E7%BB%B4/hexo%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97%E2%80%94%E2%80%94hexo%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.html" title="张学志の博客">张学志の博客</a></li><li>(后期补充)</li></ul><h1 id="翻译工具的帮助"><a href="#翻译工具的帮助" class="headerlink" title="翻译工具的帮助"></a>翻译工具的帮助</h1><p>在部署和配置blog时出现了问题，在偶然的一次机会下，帮助我找到了解决方案<br>成功解决问题，整个blog站点成功顺利部署（虽然也不能说是很顺利</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>经过重重困难，blog也是成功部署<br>后面又会遇到什么问题呢…</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;感谢翻译工具&quot;&gt;&lt;a href=&quot;#感谢翻译工具&quot; class=&quot;headerlink&quot; title=&quot;感谢翻译工具&quot;&gt;&lt;/a&gt;感谢翻译工具&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;多亏了翻译工具，让我在网页上找到了结局方案&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;他人的博文的帮助&quot;&gt;&lt;a href=&quot;#他人的博文的帮助&quot; class=&quot;headerlink&quot; title=&quot;他人的博文的帮助&quot;&gt;&lt;/a&gt;他人的博文的帮助&lt;/h1&gt;&lt;p&gt;感谢他人的博文的提供的知识与帮助，使我在其中不断学习建立blog方法&lt;br&gt;与及其使用的方法</summary>
       
     
     
@@ -43,7 +41,7 @@
     <link href="https://blog.xdxbc.top/2024/04/14/hello-world/"/>
     <id>https://blog.xdxbc.top/2024/04/14/hello-world/</id>
     <published>2024-04-14T13:05:49.015Z</published>
-    <updated>2024-04-14T13:05:49.015Z</updated>
+    <updated>2024-04-15T13:15:44.200Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
